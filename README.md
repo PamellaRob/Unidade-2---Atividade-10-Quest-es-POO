@@ -1,2 +1,2 @@
-# Unidade-2---Atividade-10-Quest-es-POO
+# Unidade2_AtividadePOO
 Atividade de 10 questões de POO e Fluxogramas
